@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4Lin/e22nOIoRi69PurHu18v8stVvrG1R0532xyBq+soAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+kmlmTkpuimpBTn5lfoATyNhsccAAAA=[0mbuild-deploy" build number [8mha:////4Kdo+1XiFmQBxAWjAgkkDcvtC7fMFMr1y7cZQpdKW836AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwk/aTSzJwU3ZTUgpz8Sn0zABF0mwXIAAAA[0m6
+originally caused by:
+ Started by upstream project "[8mha:////4ARBAqIvPYCUmNzQD1SD3pTMqkmD69InlELE3mM0LGbTAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2k0sycFF2waQBM4xq4xQAAAA==[0mbuild-java" build number [8mha:////4CbSXiNptzwIY9OFm4tovIfzSgYr9xk2+dhexxdiqgmiAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkH9rPwk/aTSzJwUXbBpxgC3pL6jxgAAAA==[0m3
+ originally caused by:
+  Started by user [8mha:////4OvW+ND7lTcEqhgpTeHDJXp7FxWZl2LN7pShvpkuVsS/AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9jMSi4ozMkowkAD6SgaPEAAAA[0mharshithb
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/build-test
+[build-test] $ /bin/sh -xe /tmp/jenkins9731320331504136553.sh
++ echo build is successfull and deploy the war file to tomcat
+build is successfull and deploy the war file to tomcat
+Finished: SUCCESS

@@ -1,0 +1,9 @@
+Started by upstream project "[8mha:////4Lin/e22nOIoRi69PurHu18v8stVvrG1R0532xyBq+soAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+kmlmTkpuimpBTn5lfoATyNhsccAAAA=[0mbuild-deploy" build number [8mha:////4FVVnuKYFT1OqNL2iZPlPmsvb1rBu/MQo+XrVZI7GQaqAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYR/az8JP2k0sycFN2U1IKc/Ep9QyMAPLzYDskAAAA=[0m12
+originally caused by:
+ Started by user [8mha:////4OvW+ND7lTcEqhgpTeHDJXp7FxWZl2LN7pShvpkuVsS/AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9jMSi4ozMkowkAD6SgaPEAAAA[0mharshithb
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/build-test
+[build-test] $ /bin/sh -xe /tmp/jenkins10850569523924521640.sh
++ echo build is successfull and deploy the war file to tomcat
+build is successfull and deploy the war file to tomcat
+Finished: SUCCESS

@@ -1,0 +1,13 @@
+Started on Jul 18, 2021, 7:16:28 PM
+Started by event from 140.82.115.144 ⇒ http://18.119.133.51:8080/github-webhook/ on Sun Jul 18 19:16:27 UTC 2021
+Using strategy: Default
+[poll] Last Built Revision: Revision 6169b630e3117a6497265c9028f4240229a6a67a (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/harshithb171997/java-new.git # timeout=10
+Found 1 remote heads on https://github.com/harshithb171997/java-new.git
+[poll] Latest remote head revision on refs/heads/master is: 7cac4cead375eea5b4d5fa07a84c414e78707af4
+Done. Took 0.19 sec
+Changes found

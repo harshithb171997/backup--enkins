@@ -1,0 +1,9 @@
+Started by upstream project "[8mha:////4ARBAqIvPYCUmNzQD1SD3pTMqkmD69InlELE3mM0LGbTAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2k0sycFF2waQBM4xq4xQAAAA==[0mbuild-java" build number [8mha:////4N7N81rdnzjtiqgZVAUtooVbKviZ+Ho7CjxvQGmbjzE+AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkH9rPwk/aTSzJwUXbBpJgAUMdo9xgAAAA==[0m4
+originally caused by:
+ Started by user [8mha:////4OvW+ND7lTcEqhgpTeHDJXp7FxWZl2LN7pShvpkuVsS/AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9jMSi4ozMkowkAD6SgaPEAAAA[0mharshithb
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/build-deploy
+[build-deploy] $ /bin/sh -xe /tmp/jenkins10799539975275476263.sh
++ cp /var/lib/jenkins/workspace/build-java/target/java-tomcat-maven-example.war /var/lib/tomcat9/webapps/
+Triggering a new build of [8mha:////4OC1QXYN2mqjZAY+xgEb8Ib/XzqfZFZBQRY9DJ3M5FDxAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2k0sycFN2S1OISfQAHedbZxQAAAA==[0mbuild-test
+Finished: SUCCESS

@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4Lin/e22nOIoRi69PurHu18v8stVvrG1R0532xyBq+soAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+kmlmTkpuimpBTn5lfoATyNhsccAAAA=[0mbuild-deploy" build number [8mha:////4NrRv9IHDrf83bBQJK2y/SHNEuXg8D6XoV7Sqfr96LEsAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYR/az8JP2k0sycFN2U1IKc/Ep9QwMAEN3W4MkAAAA=[0m10
+originally caused by:
+ Started by upstream project "[8mha:////4ARBAqIvPYCUmNzQD1SD3pTMqkmD69InlELE3mM0LGbTAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2k0sycFF2waQBM4xq4xQAAAA==[0mbuild-java" build number [8mha:////4PDOcKy2hOthDv7HDH/mruTr9JNNexHYAZhWapWZuMw/AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkH9rPwk/aTSzJwUXbBp5gCuYNOkxgAAAA==[0m7
+ originally caused by:
+  Started by GitHub push by harshithb171997
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/build-test
+[build-test] $ /bin/sh -xe /tmp/jenkins12921538808466132698.sh
++ echo build is successfull and deploy the war file to tomcat
+build is successfull and deploy the war file to tomcat
+Finished: SUCCESS

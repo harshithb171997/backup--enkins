@@ -1,0 +1,8 @@
+Started by user [8mha:////4OvW+ND7lTcEqhgpTeHDJXp7FxWZl2LN7pShvpkuVsS/AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9jMSi4ozMkowkAD6SgaPEAAAA[0mharshithb
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/build-deploy
+[build-deploy] $ /bin/sh -xe /tmp/jenkins5711686031434413052.sh
++ cp /var/lib/jenkins/workspace/build-java/target/java-tomcat-maven-example.war /var/lib/tomcat9/webapps/
+cp: cannot create regular file '/var/lib/tomcat9/webapps/java-tomcat-maven-example.war': Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
